@@ -1,0 +1,16 @@
+.parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  margin-top: 50px;
+}
+.wrapper {
+  padding: 30px;
+  min-height: 650px;
+  width: 960px;
+  margin: 0 auto;
+  background-color: #06002a;
+  box-shadow: 0px 0px 19px 6px #ffffff61;
+  color: white;
+}
